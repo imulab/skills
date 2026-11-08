@@ -4,4 +4,4 @@ description: A relentless interview that asks every frontier question at once, r
 disable-model-invocation: true
 ---
 
-Run a `/grilling` session. Ask the whole frontier in one round and hold nothing back for a later round.
+Run a `/grilling` session. Ask the whole frontier in one round.

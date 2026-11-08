@@ -15,7 +15,7 @@ The user has not been living in your head. They read the question alone, without
 
 Every question carries five parts, in this order. The whole question, recommendation included, fits on one screen. When it does not, the question is carrying two decisions. Split it and ask the dependent one in the next round.
 
-1. **Where it sits.** The settled decisions this question hangs off, named by their answer rather than their number, and the decision it unblocks.
+1. **Where it sits.** The settled decisions this question hangs off, named by their answer rather than their number, and the decision it unblocks. In round 1 nothing is settled yet, so name what the plan itself fixes.
 2. **The question, in your own words.** A full sentence you would say out loud to a colleague who missed the earlier rounds. State the choice in concrete terms. It is not a section heading, a keyword bundle, a code path, or the plan's own wording.
 3. **The terms, in plain language.** Gloss every term, abbreviation, file name, ticket number, or piece of project shorthand the first time it appears, including one the user introduced. A term whose gloss needs a second gloss is not ready for a question.
 4. **The live options and what each one costs.** Name each real choice and its concrete consequence. Leave out the options already ruled out.

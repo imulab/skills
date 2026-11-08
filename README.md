@@ -12,7 +12,7 @@ Personal ZCode skills.
 
 ### Forks
 
-`grilling` and `batch-grill-me` are installed by symlink from here rather than from the upstream pack, because the upstream question contract did not carry context, term explanations, or the reasoning behind a recommendation, and a pack update would overwrite a local edit. They keep the upstream name and path, so `/grill-me`, `/grill-with-docs`, `/triage`, `/wayfinder` and every other delegate keep working unchanged. Both came from [mattpocock/skills](https://github.com/mattpocock/skills), installed on 2026-08-11. Update a fork by diffing it against upstream by hand.
+`grilling` and `batch-grill-me` are installed by symlink from here rather than from the upstream pack, because the upstream question contract did not carry context, term explanations, or the reasoning behind a recommendation, and a pack update would overwrite a local edit. They keep the upstream name and path, so `/grill-me`, `/grill-with-docs`, `/triage`, `/wayfinder` and every other delegate keep working unchanged. Both came from [mattpocock/skills](https://github.com/mattpocock/skills), installed on 2026-08-11, and the upstream MIT notice is kept in [NOTICE](./NOTICE). Update a fork by diffing it against upstream by hand.
 
 ## Installing a skill
 

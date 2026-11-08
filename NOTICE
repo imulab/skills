@@ -1,0 +1,7 @@
+This repository contains two skills derived from mattpocock/skills.
+
+grilling/ and batch-grill-me/ are modified copies of skills from
+https://github.com/mattpocock/skills, MIT licensed, Copyright (c) 2026 Matt Pocock.
+
+The rest of this repository is Copyright (c) 2026 Weinan Qiu, MIT licensed.
+See LICENSE.
